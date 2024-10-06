@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\layout_activity_learning.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\layout\\activity_learning.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\layout_activity_explore.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\layout\\activity_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\drawable_circular_button.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\drawable\\circular_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\drawable_layout3.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\drawable\\layout3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "khetkaguru.mobile.app-debug-4:/layout_activity_learning.xml.flat",
+        "source": "khetkaguru.mobile.app-main-6:/layout/activity_learning.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\layout_activity_chat_bot.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\layout\\activity_chat_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\layout_item_chat_message.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\layout\\item_chat_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\drawable_layout1.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\drawable\\layout1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\drawable_app_layout.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\drawable\\app_layout.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "khetkaguru.mobile.app-debug-4:/layout_activity_chat_bot.xml.flat",
+        "source": "khetkaguru.mobile.app-main-6:/layout/activity_chat_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\layout_external_layout.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\layout\\external_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\drawable_layout2.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\drawable\\layout2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\khetkaguru.mobile.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    }
+]
